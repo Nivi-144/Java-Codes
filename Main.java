@@ -1,11 +1,15 @@
-public class Main {
-    public static void main(String args[]){
-        System.out.println("Sunday");
-        System.out.println("Monday");
-        System.out.println("Tuesday");
-        System.out.println("Wednesday");
-        System.out.println("Thursday");
-        System.out.println("Friday");
-        System.out.println("Saturday");
+class car{
+    String brand;
+    int speed;
+    void display(){
+        System.out.println("Brand:"+brand+",Speed:"+speed);
+    }
+}
+public class Main{
+    public static void main(String [] args){
+        car c1=new car();
+        c1.brand="Maruti";
+        c1.speed=140;
+        c1.display();
     }
 }
