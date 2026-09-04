@@ -1,8 +1,3 @@
-
-
-
-
-
 # ☕ Java Codes
 
 Welcome to my Java Codes repository!
