@@ -1,7 +1,6 @@
-
 # ☕ Java Codes
 
-Welcome to my Java Codes repository!
+Welcome to my Java Codes repository !
 
 This repository contains Java programs that I have written while learning Java programming and Data Structures & Algorithms. It includes beginner to advanced concepts, coding practice, and object-oriented programming examples.
 
