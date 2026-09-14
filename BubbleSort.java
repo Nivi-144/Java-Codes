@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 public class BubbleSort {
     public static void main(String[] args) {
         int n,temp;
@@ -21,7 +19,6 @@ public class BubbleSort {
                 }
             }
         }
-
         System.out.println("Sorted array:");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
