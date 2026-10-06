@@ -1,4 +1,3 @@
-
 public class Employee{
     double calculateSalary(double basicPay){
         return basicPay;
